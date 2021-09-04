@@ -1,7 +1,6 @@
 # Yash_Bharadwaj
 Hi there 👋 I am Yash Bharadwaj.  
-
-•	I am Data and DevOps Enthusiast, who is looking for opportunities in Data, DevOps, and Software Engineering Roles. 
+I am Cloud and DevOps Enthusiast, who is looking for opportunities in cloud, DevOps, and Software Engineering Roles. 
 
 •	🔭 I’m currently working on Cloud,data, DevOps &amp. 
 
